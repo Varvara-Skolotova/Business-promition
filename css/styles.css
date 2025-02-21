@@ -1,0 +1,159 @@
+.body {
+  font-family: 'Poppins', sans-serif;
+  background: #fff;
+  color: #22343d;
+}
+
+/* Reset */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+button {
+  cursor: pointer;
+  border: none;
+  font-family: inherit;
+}
+img {
+  display: block;
+}
+
+/* Common */
+.container {
+  width: 1140px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+/* Header */
+.header {
+}
+.header-nav {
+}
+.logo {
+}
+.header-list {
+}
+.header-item {
+}
+.header-link {
+}
+.header-list-btn {
+}
+.header-item-btn {
+}
+.header-btn {
+}
+.header-btn2 {
+}
+
+/* Hero 1*/
+.hero {
+}
+.container {
+}
+.hero-title {
+}
+.hero-text {
+}
+.hero-list {
+}
+.hero-item {
+}
+.hero-btn {
+}
+.hero-foto {
+}
+
+/* Product */
+
+.product {
+}
+.container {
+}
+.product-title {
+}
+.product-list {
+}
+.product-item {
+}
+.product-item-title {
+}
+.product-item-text {
+}
+.product-btn {
+}
+
+/* Management */
+.management {
+}
+.container {
+}
+.management-title {
+}
+.management-text {
+}
+.management-list {
+}
+.manegement-item {
+}
+.management-item-titel {
+}
+.management-item-text {
+}
+.management-foto {
+}
+
+/* Support */
+.support {
+}
+.container {
+}
+.support-foto {
+}
+.support-titel {
+}
+.support-text {
+}
+.support-list {
+}
+.support-item {
+}
+.support-item-text {
+}
+
+/* Collaborative */
+.collab {
+}
+.container {
+}
+.collab-titel {
+}
+.collab-text {
+}
+.collab-list {
+}
+.collab-item {
+}
+.collab-item-titel {
+}
+.collab-item-text {
+}
+.collab-foto {
+}
